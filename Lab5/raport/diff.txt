@@ -1,0 +1,11 @@
+Order :
+    -tax value
+    -pole discount
+    -Product -> productList
+    -geter i seter na product
+    -get discount, set discount
+
+Product:
+    -pole discount
+    -get price with dicsount
+    -set & get discount
